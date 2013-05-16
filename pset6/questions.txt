@@ -1,0 +1,7 @@
+0. is, according to the Oxford English Dictionary, "a factitious word alleged to mean a lung disease caused by the inhalation of very fine silica dust,causing inflammation in the lungs." It occurs chiefly as an instance of a very long word.
+1. get information about resource utilization.
+2. 18
+3. 
+4. we read one character at a time from text file, every time we read that character, first we check if it's valid(aka.alphabet or apostrophes), if it is,then we append that character in a array called word, but here we also check if that word is getting too large(bigger than 45 characters);second we check if it's a digit,if it is,just ignore it and the rest of it until we hit the next word; thirdly,if we end up there, then we must have found a word! so just append a terminator to word and update your counter, check if it is misspelled, finally reset our index to zero for the next word.
+5. if we use fscanf, then we might ..
+6. because we won't change parameters, we just read them.

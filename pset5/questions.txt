@@ -1,0 +1,4 @@
+0. 2^24 for BMP, 256 for GIF and JPEG, 2^48 for png.
+1. GIF
+2. 
+3. GIF,JPEG
